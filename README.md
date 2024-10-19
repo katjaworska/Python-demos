@@ -1,2 +1,2 @@
 # Python-demos
-Examples of programs in Python
+Examples of my programs in Python
